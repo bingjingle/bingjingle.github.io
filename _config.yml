@@ -1,0 +1,9 @@
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:title/
+url: http://bingjingle.github.io
+author: Bingjing Tang
+pygments: true
+
+kramdown:
+  input: GFM
