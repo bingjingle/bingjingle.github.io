@@ -14,20 +14,8 @@ modified: 2014-12-24
 
 # Contact
 
-Tel: (212) 650-8917
+Tel: (443) 931-9006
 
-Email: xrong [at] ccny [dot] cuny [dot] edu
+Email: bingjingle [at] msn [dot] com
 
-Office: Steinman Hall 632, 160 Convent Ave, New York, NY 10031
-
-----------
-
-# Links
-
-排名不分先后。
-
-- [张驰原 Chiyuan Zhang](http://freemind.pluskid.org)
-- [谢益辉 Yihui Xie](http://yihui.name)
-- [木遥 Farmostwood](http://blog.farmostwood.net)
-- [易楚才 Chucai Yi](http://media-lab.engr.ccny.cuny.edu/~cyi)
-- [杨晓东 Xiaodong Yang](http://yangxd.org)
+Office: 2106 Birch Lane, Lafayette, IN 47905
