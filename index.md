@@ -9,8 +9,8 @@ Currently I'm applying for the Ph.D. in Statistics. Please refer to my [Curricul
 
 ## News
 
-#### > I'm applying for the Ph.D. in Statistics.
+> #### I'm applying for the Ph.D. in Statistics.
 
-#### > I joined in the graduate school of Purdue University on Jan. 2015!
+> #### I joined in the graduate school of Purdue University on Jan. 2015!
 
-#### > I graduate from Johns Hopkins University on May. 2014!
+> #### I graduate from Johns Hopkins University on May. 2014!
