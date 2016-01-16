@@ -3,6 +3,6 @@ layout: home
 avatar: yes
 ---
 
-For now I am a third year PhD candidate in [Media Lab](http://media-lab.engr.ccny.cuny.edu) of [The City College](http://www.ccny.cuny.edu), [CUNY](http://cuny.edu), and working with [Prof. Yingli Tian](http://www-ee.ccny.cuny.edu/www/web/yltian/home.html) in the intersection of Machine Learning and Computer Vision. Before joining Media Lab, I obtained my BEng degree from Nanjing University of Aeronautics and Astronautics in 2013. 
+For now I am a a statistical analyst at the [graduate school](https://www.purdue.edu/gradschool/index.html) of [Purdue University](http://purdue.edu). Before joining Media Lab, I obtained my MS degree from [Johns Hopkins University](https://www.jhu.edu) in 2014, and my BA degree from [Beijing Language and Culture University](http://english.blcu.edu.cn).
 
-Currently my research interests mainly focus on inference and learning for scene text detection and recognition in the wild, in the presence of image degradations like blur, distortion, and noise.
+Currently I'm applying for the Ph.D. in Statistics. Please refer to my [Curriculum Vitae](http://bingjingle.github.io/cv.pdf) for details. Thanks.
