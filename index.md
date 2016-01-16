@@ -7,10 +7,10 @@ For now I am a a statistical analyst at the [graduate school](https://www.purdue
 
 Currently I'm applying for the Ph.D. in Statistics. Please refer to my [Curriculum Vitae](http://bingjingle.github.io/cv.pdf) for details. Thanks.
 
-# News
+## News
 
-> I'm applying for the Ph.D. in Statistics.
+#### > I'm applying for the Ph.D. in Statistics.
 
-> I joined in the graduate school of Purdue University on Jan. 2015!
+#### > I joined in the graduate school of Purdue University on Jan. 2015!
 
-> I graduate from Johns Hopkins University on May. 2014!
+#### > I graduate from Johns Hopkins University on May. 2014!
