@@ -9,7 +9,7 @@ Currently I'm applying for the Ph.D. in Statistics. Please refer to my [Curricul
 
 ## News
 
-> #### I'm applying for the Ph.D. in Statistics.
+> #### I'm applying for the Ph.D. in Statistics of Fall 2016.
 
 > #### I joined in the graduate school of Purdue University on Jan. 2015!
 
